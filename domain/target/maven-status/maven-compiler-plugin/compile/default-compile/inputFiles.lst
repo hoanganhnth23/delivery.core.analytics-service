@@ -1,0 +1,7 @@
+/Users/a/Documents/private/delivery/backend_delivery/analytics/domain/src/main/java/com/delivery/analytics/domain/DashboardValues.java
+/Users/a/Documents/private/delivery/backend_delivery/analytics/domain/src/main/java/com/delivery/analytics/domain/OrderProjection.java
+/Users/a/Documents/private/delivery/backend_delivery/analytics/domain/src/main/java/com/delivery/analytics/domain/OrderReconciliationAccumulator.java
+/Users/a/Documents/private/delivery/backend_delivery/analytics/domain/src/main/java/com/delivery/analytics/domain/PaymentProjection.java
+/Users/a/Documents/private/delivery/backend_delivery/analytics/domain/src/main/java/com/delivery/analytics/domain/ReceiptIdentity.java
+/Users/a/Documents/private/delivery/backend_delivery/analytics/domain/src/main/java/com/delivery/analytics/domain/ReceiptKey.java
+/Users/a/Documents/private/delivery/backend_delivery/analytics/domain/src/main/java/com/delivery/analytics/domain/SnapshotDecisions.java
